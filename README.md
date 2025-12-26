@@ -26,3 +26,7 @@ real-world problems through code.
 ## Contact
 Email: j.saiteja05@gmail.com  
 LinkedIn: https://www.linkedin.com/in/saiteja-ml/
+- [Real-Time Traffic Flow Analysis](https://github.com/saiteja-ml/traffic-flow-analysis)
+- [Heartbeat Dynamics](https://github.com/saiteja-ml/heartbeat-dynamics)
+- [Smarter Banking Chatbot](https://github.com/saiteja-ml/banking-chatbot)
+
